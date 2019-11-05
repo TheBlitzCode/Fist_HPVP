@@ -1,1 +1,8 @@
-
+name: Fist-Hard
+main: 
+api: [3.2.3]
+version: 1.0.0
+author: TheBlitzCode & SrDxni
+commands:
+   fist:
+    description: Join to arena the Fist!
